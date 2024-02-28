@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Cloud Computing",
+        "img": "database.png",
+        "desc": "Cloud Computing is a service we provide at The Company."
+    },
+    {
+        "title": "Cybersecurity",
+        "img": "vulnerability.png",
+        "desc": "Cybersecurity is a technology service we provide at The Company."
+    },
+    {
+        "img": "discussion.png",
+        "title": "I.T Consultancy",
+        "desc": "I.T Consultancy is a technology service we provide at The Company."
+    },
+    {
+        "img": "statistics.png",
+        "title": "Data Analysis",
+        "desc": "Data Analysis is a service we provide at The Company."
+    },
+    {
+        "img": "coding.png",
+        "title": "Web Development",
+        "desc": "Web Development is a technology service we provide at The Company."
+    },
+    {
+        "img": "invesment.png",
+        "title": "Business Services",
+        "desc": "Business Services is a technology service we provide at The Company."
+    }
+]
